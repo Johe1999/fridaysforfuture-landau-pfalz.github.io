@@ -13,4 +13,4 @@ Die Seite befindet sich noch im Aufbau. Vorerst gibt es doch nur ein paar Links 
 - <i class="fab fa-whatsapp"></i> [WhatsApp Landau](https://chat.whatsapp.com/H0HW72PpRQi6URmGK4RgFJ)
 
 ---
-_[<i class="fab fa-github"></i>](https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io) [<i class="fas fa-envelope-square"></i>](mailto:info@fridaysforfuture-landau.de)
+[<i class="fab fa-github"></i>](https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io) [<i class="fas fa-envelope-square"></i>](mailto:info@fridaysforfuture-landau.de)
