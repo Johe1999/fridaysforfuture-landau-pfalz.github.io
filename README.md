@@ -9,7 +9,7 @@ Zweck dieser Seite ist es Menschen einen zentralen Anlaufpunkt rund um den Klima
 Die Seite befindet sich noch im Aufbau. Vorerst gibt es doch nur ein paar Links auf weitere Informationen:
 
 - [fridaysforfuture.de](https://fridaysforfuture.de)
-- [Telegram Landau](https://t.me/FFFLDInfo)
-- [WhatsApp Landau](https://chat.whatsapp.com/H0HW72PpRQi6URmGK4RgFJ)
+- <i class="fab fa-telegram"></i> [Telegram Landau](https://t.me/FFFLDInfo)
+- <i class="fab fa-whatsapp"></i> [WhatsApp Landau](https://chat.whatsapp.com/H0HW72PpRQi6URmGK4RgFJ)
 
-<i class="fab fa-telegram"></i>
+
