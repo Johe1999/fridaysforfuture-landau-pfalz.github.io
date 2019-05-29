@@ -1,1 +1,1 @@
-# [Fridays for Future Landau](https://fridaysforfuture-landau.de)
+# [Fridays for Future Landau](http://fridaysforfuture-landau.de)
